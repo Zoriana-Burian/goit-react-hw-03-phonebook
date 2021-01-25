@@ -1,0 +1,16 @@
+.filter {
+  justify-content: center;
+}
+
+.label {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 20px;
+  color: grey;
+  margin-left: 50px;
+}
+
+.input {
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
